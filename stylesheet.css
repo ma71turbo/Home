@@ -1,5 +1,71 @@
-/*I'm a comment*/
+/* comment comment comment */
 
-p { 
+h3 {
+	background-color: #2A3394;
+	height: 40px;
+	width: 120px;
 	color: black;
-}
+	font-family: Calibri;
+	border: solid black;
+	display: inline;
+	position: relative;
+	margin: auto;
+	
+	}
+	
+body {
+	width: 900px;
+	background-color: #576D94;
+	color: white;
+	margin: auto;
+	text-align: center;
+	position: absolute;
+	}
+	
+a 	{
+	color: black;
+	text-decoration: none;
+	}
+	
+table {
+	margin: auto;
+	display: inline;
+	position: relative;
+	}
+	
+td 	{
+	border: solid black;
+	border-width: 1px;
+	padding: 2px;
+	background: aqua;
+	border-radius: 5px;
+	color: #000000;
+	}
+#table1 {
+	display: inline-flex;
+	position: relative;
+	top: 80px;
+	left: 100px;
+	background-color: black;
+	}
+
+#table2 {
+	display:inline-flex;
+	position:relative;
+	top: 240px;
+	left: -240px;
+	background-color: black;
+	}
+#table3 {
+	display:inline-flex;
+	position:relative;
+	top: 240px;
+	left: -720px;
+	background-color: black;
+	}
+ul {
+	position:relative;
+	left: -400px;
+	top: 240px;
+	color: black;
+	}
